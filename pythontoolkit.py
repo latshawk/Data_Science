@@ -72,7 +72,7 @@ print(yelling2)
 #case example for functions and tuples
 import pandas as pd
 
-df = pd.read_csv('D:/hawk/datacamp/tweets.csv')
+df = pd.read_csv('D:/hawk/fakepath/tweets.csv')
 
 #initialize a new dictionary
 lang_count = {}
